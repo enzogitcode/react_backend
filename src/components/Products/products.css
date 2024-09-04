@@ -1,0 +1,18 @@
+/* itemCount */
+.itemCountContainer button{
+    font-family: islandLogo;
+    font-size: 1.1em;
+}
+.itemCountContainer p{
+    width:min-content;
+    font-size: 1.1em;
+}
+/* AddProducts */
+.addProductsFormContainer form input {
+    border-radius: 1em;
+    text-align: center;
+    padding: 1%;
+}
+.addProductsFormContainer form label {
+    font-weight: bolder;
+}

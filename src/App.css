@@ -1,0 +1,35 @@
+@font-face {
+  font-family: islandLogo;
+  src: url('/fonts/IslandFontLogoss.ttf');
+}
+* {
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box; 
+}
+:root {
+    --azulCieloOscuro: #03AED2;
+    --azulCelesteCielo: #68D2E8;
+    --colorAmarrilloClaro: #FEEFAD;
+    --colorAmarilloOscuro: #FDDE55;
+    --colorBrown: #a52a2a;
+}
+
+main {
+    /* background: #22c1c3;
+    background: linear-gradient(
+      to top,
+      #22c1c3,#fdbb2d
+    ); */
+    /* background-image: url(../img/wallpaperDesktop.jpg); */
+    background-color: antiquewhite;
+    background-position: center;
+    background-repeat: none;
+    background-size:cover;
+    object-fit: cover;
+}
+h1 {
+  font-family: islandLogo;
+}
+
+
